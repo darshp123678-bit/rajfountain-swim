@@ -22,7 +22,7 @@ const formStatus = document.getElementById('formStatus');
 
 // Add your Formspree endpoint to FORM_ENDPOINT to receive enquiries by email.
 // Example: const FORM_ENDPOINT = 'https://formspree.io/f/xxxxxxxx';
-const FORM_ENDPOINT = '';
+const FORM_ENDPOINT = 'https://formspree.io/f/xoedpdyj';
 
 enquiryForm.addEventListener('submit', async (event) => {
   event.preventDefault();
